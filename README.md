@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Ryan Miranda 👋</h1>
 
 <p align="center">
-  <i>Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções criativas.</i>
+  <i>"Iniciando minha jornada como desenvolvedor, sou apaixonado por tecnologia e movido pela curiosidade. Estou sempre buscando aprender e evoluir, com o objetivo de me tornar um profissional capaz de criar soluções úteis e criativas."</i>
 </p>
 
 ---
@@ -13,6 +13,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
   <img src="https://img.icons8.com/ios-filled/60/4479A1/sql.png" alt="SQL"/>
 </p>
@@ -28,7 +30,7 @@
 
 ### 🛠️ Tecnologias que uso e estou aprendendo
 
-- 💻 **Java**, **Python** e **JavaScript** para desenvolvimento de aplicações
+- 💻**Java**, **Python**, **JavaScript**, **HTML**, **CSS**
 - 🗄️ **MySQL / SQL** para gerenciamento e análise de dados
 - 📊 **Power BI** para visualização de dados e dashboards
 - 🔧 **Git & GitHub** para versionamento e colaboração em projetos
@@ -43,9 +45,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMiranda01&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanMiranda01&show_icons=true&theme=github_dark" />
 </p>
