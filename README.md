@@ -39,7 +39,7 @@
 
 ### 📫 Vamos nos conectar!
 
-- 💼 [LinkedIn](www.linkedin.com/in/ryan-miranda-978910302)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ryan-miranda-978910302)
 - 📧 ryandilei17@gmail.com
 
 ---
