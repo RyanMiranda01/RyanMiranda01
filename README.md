@@ -23,7 +23,9 @@
   <!-- Ferramentas e tecnologias -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="60">
+
+
 </p>
 
 ---
